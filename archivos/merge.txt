@@ -1,0 +1,3 @@
+Jonathan David Osorio Restrepo
+18
+Tener la capacidad de comprender los elementos conceptuales propios del paradigma orientado a objetos que me permita plantear y aplicar modelos bien formados en la solución de problemas utilizando un lenguaje de programación orientado a objetos
